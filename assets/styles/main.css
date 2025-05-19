@@ -1,0 +1,8 @@
+@"
+.subscribe-btn {
+  background-color: #007BFF;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 5px;
+}
+"@ | Out-File -Encoding utf8 assets\styles\main.css
