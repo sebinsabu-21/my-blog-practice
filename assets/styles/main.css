@@ -1,6 +1,8 @@
-@"
 body {
   background-color: #121212;
-  color: #e0e0e0;
+  color: #ffffff;
 }
-"@ | Out-File -Encoding utf8 assets\styles\main.css
+
+a {
+  color: #90caf9;
+}
